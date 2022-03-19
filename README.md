@@ -9,5 +9,5 @@
 5. Нейронные сети для табличных данных (TabNet, DeepFM)
 6. Компьютерное зрение
 7. Рекуррентные нейронные сети, NLP
-8. Transformer
-9. Attention, Graph Neural Networks
+8. Transformer, Attention
+9. Graph Neural Networks
